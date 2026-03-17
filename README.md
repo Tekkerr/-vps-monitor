@@ -1,4 +1,4 @@
-# VPS Monitor — Netdata + 3X-UI + RKN Checker
+# VPS Monitor - Netdata + 3X-UI + RKN Checker
 
 ## Что устанавливается
 
